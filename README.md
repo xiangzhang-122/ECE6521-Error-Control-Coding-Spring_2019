@@ -1,2 +1,2 @@
 # ECE6521-Error_Control_Coding-Spring-2019-
-Taught by Pr. Rongrong Chen, which focus on: linear block codes, convolutional codes and its optimal decdoing, Turbo codes, LDPC codes, binary BCH codes and Reed-Solomon Codes.
+Taught by Pr. Rongrong Chen, which focus on: linear block codes, convolutional codes and its optimal decdoing, Turbo codes, LDPC codes, binary BCH codes and Reed-Solomon Codes. This course will help to grab the basics and essence of channel coding and forcilitate the understanding to various apllications of coding techiques inlcuding multiple recently developed codes for distributed matrix muliplication with straggling workers, and several distributed maching learning algorithms like federated learning.
