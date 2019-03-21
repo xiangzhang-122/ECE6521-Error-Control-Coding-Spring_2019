@@ -1,0 +1,2 @@
+This folder inlcudes the convolutional code encoder implememntation, including the systematic recursive convo. code (SRCC) 
+and non-systematic non-recursive convo. code (NNCC) encoder.
