@@ -1,1 +1,2 @@
 This homework focus on the Tanner grapgh-based iterarive decoding of LDPC codes, where the encoding part is not required.
+LDPC codes has near-Shannon limit error performance, and is adopted for 5G standard together with polar codes.
