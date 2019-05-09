@@ -1,0 +1,19 @@
+(averaged BER over 100 codewords)
+
+av_error =
+
+  Columns 1 through 2
+
+   0.199735243055556   0.161553819444444
+
+  Column 3 through 4
+
+   0.071338975694444   0.043449435763889
+
+ Columns 5 through 6
+
+   0.016998697916667   0.004807942708333
+
+  Column 7
+
+  0.000346137152778
